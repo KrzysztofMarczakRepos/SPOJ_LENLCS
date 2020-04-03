@@ -1,0 +1,1 @@
+My solution for LENLCS problem from Polish SPOJ.
